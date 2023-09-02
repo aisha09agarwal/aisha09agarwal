@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Digital Data Security using Visual Cryptography & Steganography**
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Web Development using PHP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aisha09agarwal?tab=repositories](https://github.com/aisha09agarwal?tab=repositories)
 
-- 💬 Ask me about **JAVA**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **aisha02agarwal@gmail.com**
 
