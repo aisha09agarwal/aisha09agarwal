@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aisha09agarwal?tab=repositories](https://github.com/aisha09agarwal?tab=repositories)
 
-- 💬 Ask me about **JAVA**
+- 💬 Ask me about **JAVA, Data Structures, OOPs Concepts and SQL**
 
 - 📫 How to reach me **aisha02agarwal@gmail.com**
 
