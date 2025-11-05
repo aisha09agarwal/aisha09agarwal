@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aisha09agarwal" alt="aisha09agarwal" /></a> </p>
 
-- 🔭 I’m currently working on **Digital Data Security using Visual Cryptography & Steganography**
+- 🔭 I’m currently working on **[BankEase-Bank-Management-System](https://github.com/aisha09agarwal/BankEase-Bank-Management-System)**
 
-- 🌱 I’m currently learning **Web Development using PHP**
+- 🌱 I’m currently learning **Java Advance Concepts**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aisha09agarwal?tab=repositories](https://github.com/aisha09agarwal?tab=repositories)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **JAVA**
 
 - 📫 How to reach me **aisha02agarwal@gmail.com**
 
